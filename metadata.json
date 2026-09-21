@@ -1,0 +1,6 @@
+{
+  "name": "Ahmed ASL",
+  "description": "AI-Powered Real-Time Sign Language Communication Assistant for the Deaf and Hard of Hearing",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
